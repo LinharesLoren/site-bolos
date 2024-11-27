@@ -1,0 +1,146 @@
+pizzaJson=[
+    {
+      id: 1,
+      name: 'Torta de Limão Encantada',
+      img: 'imagens/torta2.jpeg',
+      price: [25.00, 27.00, 30.00],
+      sizes: [
+        '6 fatias',
+        '8 fatias',
+        '12 fatias'
+      ],
+      description: 'Uma deliciosa torta de limão com um recheio cremoso, coberta com merengue leve e dourado. O contraste entre a acidez do limão e a doçura do merengue faz dessa torta uma experiência refrescante e irresistível.'
+    },
+    {
+      id: 2,
+      name: 'Torta de Frutas da Floresta',
+      img: 'imagens/torta1.jpeg',
+      price: [21.00, 24.00, 26.00],
+      sizes: [
+        '6 fatias',
+        '8 fatias',
+        '12 fatias'
+      ],
+      description: ' Uma crosta de massa amanteigada recheada com uma mistura de frutas vermelhas frescas, como morangos, framboesas e mirtilos. Finalizada com uma geléia brilhante, essa torta é perfeita para quem ama sabores frutais.'
+    },
+    {
+      id: 3,
+      name: 'Torta de Chocolate Indulgente',
+      img: 'imagens/chocolatetorta.jpeg',
+      price: [20.00, 23.00, 25.00],
+      sizes: [
+        '6 fatias',
+        '8 fatias',
+        '12 fatias'
+      ],
+      description: 'Uma torta rica de chocolate com uma base de biscoito crocante e um recheio cremoso de chocolate meio amargo. Coberta com raspas de chocolate e um toque de chantilly, é o paraíso dos chocólatras.'
+    },
+    {
+      id: 4,
+      name: 'Brownie Clássico',
+      img: 'imagens/brochoc.jpeg',
+      price: [20.00, 23.00, 25.00],
+      sizes: [
+        '6 fatias',
+        '8 fatias',
+        '12 fatias'
+      ],
+      description: 'Um brownie denso e fudgy, com uma casquinha crocante por fora e um interior macio e molhadinho. Cada pedaço é carregado de chocolate intenso, perfeito para satisfazer seu desejo por doce.o'
+    },
+    {
+      id: 5,
+      name: 'Brownie de Nozes Caramelizadas',
+      img: 'imagens/loren1.jpeg',
+      price: [25.00, 28.00, 32.00],
+      sizes: [
+        '6 fatias',
+        '8 fatias',
+        '12 fatias'
+      ],
+      description: 'Este brownie combina a intensidade do chocolate com nozes crocantes e um toque de caramelo salgado. A combinação de texturas faz dele uma verdadeira delícia a cada mordida.'
+    },
+    {
+      id: 6,
+      name: 'Brownie de Café e Chocolate',
+      img: 'imagens/loren2.jpeg',
+      price: [20.00, 23.00, 25.00],
+      sizes: [
+        '6 fatias',
+        '8 fatias',
+        '12 fatias'
+      ],
+      description: 'Uma explosão de sabor com a mistura de chocolate rico e um toque de café forte. Este brownie é ideal para os amantes de café, proporcionando uma experiência intensa e revigorante.'
+    },
+    {
+      id: 7,
+      name: 'Bolo de Baunilha com Frutas Vermelhas',
+      img: 'imagens/loren3.jpeg',
+      price: [20.00, 23.00, 25.00],
+      sizes: [
+        '6 fatias',
+        '8 fatias',
+        '12 fatias'
+      ],
+      description: 'Um bolo fofinho de baunilha, recheado e coberto com um coulis de frutas vermelhas. A leveza da baunilha combina perfeitamente com a acidez das frutas, criando uma sobremesa equilibrada e deliciosa.'
+    },
+    {
+      id: 8,
+      name: 'Bolo de Chocolate com Brigadeiro',
+      img: 'imagens/bolo1.jpeg',
+      price: [20.00, 23.00, 25.00],
+      sizes: [
+        '6 fatias',
+        '8 fatias',
+        '12 fatias'
+      ],
+      description: 'Um bolo indulgente de chocolate, recheado com um brigadeiro cremoso e coberto com granulado. Este bolo é um verdadeiro clássico brasileiro, trazendo nostalgia e sabor a cada fatia.'
+    },
+    {
+      id: 9,
+      name: 'Bolo de Cenoura com Cobertura de Chocolate',
+      img: 'imagens/bolo2.jpeg',
+      price: [20.00, 23.00, 25.00],
+      sizes: [
+        '6 fatias',
+        '8 fatias',
+        '12 fatias'
+      ],
+      description: 'Um bolo macio e úmido de cenoura, coberto com uma deliciosa calda de chocolate. Essa combinação perfeita de sabores é uma opção irresistível para qualquer ocasião.'
+    },
+    {
+      id: 10,
+      name: 'Bolo de Baunilha com Frutas Vermelhas (no pote)',
+      img: 'imagens/pote1.jpeg',
+      price: [8.00, 10.00, 15.00],
+      sizes: [
+        '100 gramas',
+        '200 gramas',
+        '300 gramas'
+      ],
+      description: 'Bolo fofinho de baunilha com coulis de frutas vermelhas, combinando suavidade e acidez em uma sobremesa deliciosa e refrescante.'
+    },
+    {
+      id: 11,
+      name: 'Bolo de Chocolate com Brigadeiro (no pote)',
+      img: 'imagens/COPO.jpeg',
+      price: [8.00, 10.00, 15.00],
+      sizes: [
+        '100 gramas',
+        '200 gramas',
+        '300 gramas'
+      ],
+      description: 'Camadas de bolo de chocolate com brigadeiro cremoso e granulado, uma combinação irresistível de chocolate e nostalgia.'
+    },
+    {
+      id: 12,
+      name: 'Bolo de Cenoura com Cobertura de Chocolate (no pote)',
+      img: 'imagens/pt.jpeg',
+      price: [8.00, 10.00, 15.00],
+      sizes: [
+        '100 gramas',
+        '200 gramas',
+        '300 gramas'
+      ],
+      description: 'Bolo de cenoura macio e úmido, coberto com calda de chocolate, uma combinação clássica e irresistível.'
+    }
+    ];
